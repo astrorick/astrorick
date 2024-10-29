@@ -10,9 +10,9 @@ _Researcher at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_m
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/?username=astrorick&theme=react" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/?username=astrorick&theme=react" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrorick&layout=compact&theme=react" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrorick&layout=compact&theme=react" />
   </a>
 </p>
