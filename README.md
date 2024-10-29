@@ -12,5 +12,5 @@ _Researcher at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_m
   <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/astrorick?cardType=level-alternate&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrorick&layout=compact&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrorick&layout=compact&theme=react&card_width=320" />
 </a>
