@@ -9,7 +9,7 @@ _Researcher at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_m
 [![GitHub Badge](https://img.shields.io/github/followers/astrorick?style=social&logo=github&label=Follow%20Me)](https://github.com/astrorick)
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="200" src="https://github-readme-stats.vercel.app/api/?username=astrorick&theme=react" />
     </a>
