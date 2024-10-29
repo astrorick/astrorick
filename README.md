@@ -8,13 +8,11 @@ _Researcher at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_m
 [![Linkedin Badge](https://img.shields.io/badge/-astrorick-0077B5?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/astrorick/)
 [![GitHub Badge](https://img.shields.io/github/followers/astrorick?style=social&logo=github&label=Follow%20Me)](https://github.com/astrorick)
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/?username=astrorick&theme=react" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrorick&layout=compact&theme=react" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/?username=astrorick&theme=react" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=astrorick&layout=compact&theme=react" />
+  </a>
+</p>
