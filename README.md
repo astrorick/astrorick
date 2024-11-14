@@ -1,7 +1,7 @@
 # Hi, I'm Riccardo! :it:
 
 _Space Engineer_ :rocket::artificial_satellite:\
-_PhD at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_man:
+_PhD Student at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_man:
 
 [![Email Badge](https://img.shields.io/badge/-Email-5734C4?style=flat-square&logo=mail.ru)](mailto:me@astrorick.space)
 [![Signal Badge](https://img.shields.io/badge/-Signal-3A76F0?style=flat-square&logo=signal&logoColor=white)](https://signal.me/#eu/Lm5t6fHJmkwj8yqIW9inyqUxhdBbV17xk4tNdzqVIJ-bviFHgc9Ava465AF6xaup)
