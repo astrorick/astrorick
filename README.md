@@ -6,5 +6,3 @@
 
 _PhD Student in Space Engineering at [Sapienza, University of Rome](https://www.uniroma1.it/)_ :mage_man:\
 I work on Guidance, Navigation and Control for planetary robotic systems.
-
-<img src="metrics.languages.svg" alt="Most Used Languages" width="100%">
